@@ -1,0 +1,37 @@
+.jumbotron {
+    background-image: url('./assets/funny-wet-cats-coverimage.jpg');
+    color: white;
+    height: 100vh;
+  
+}
+
+.card {
+    background: transparent;
+    height: fit-content;
+    color: solid
+}
+
+.card-text {
+   color: black;
+}
+
+.lead {
+    font-style: italic;
+    font-size: 5vh;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.card-body {
+    background-color: white;
+    
+
+}
+
+footer {
+    font-weight: bold;
+    
+    
+    height: 10vh;
+}

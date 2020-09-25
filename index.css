@@ -31,7 +31,6 @@
 
 footer {
     font-weight: bold;
-    
-    
+    position: relative;
     height: 10vh;
 }
